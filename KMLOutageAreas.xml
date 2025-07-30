@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Folder><name>Outage Areas</name>
-<Placemark><name>12704</name><ExtendedData><Data name="StartUTC"><value>2025-07-30T14:09:09.1094240+00:00</value></Data><Data name="Cause"><value>Pending Investigation</value></Data><Data name="EstCustomersOut"><value>1</value></Data><Data name="UploadTimestampUTC"><value>2025-07-30T15:16:04.0000000+00:00</value></Data><Data name="EstimatedRestorationUTC"><value>2025-07-30T16:15:00.0000000+00:00</value></Data><Data name="OutageStatus"><value>Outage Reported</value></Data><Data name="IsStormModeData"><value>False</value></Data><Data name="DistrictBroadcastMessages"><value>[]</value></Data><Data name="RegionBroadcastMessages"><value>[]</value></Data><Data name="IncidentBroadcastMessages"><value>[]</value></Data></ExtendedData><Polygon xmlns="http://www.opengis.net/kml/2.2">
+<Placemark><name>12704</name><ExtendedData><Data name="StartUTC"><value>2025-07-30T14:09:09.1094240+00:00</value></Data><Data name="Cause"><value>Pending Investigation</value></Data><Data name="EstCustomersOut"><value>1</value></Data><Data name="UploadTimestampUTC"><value>2025-07-30T15:39:02.0000000+00:00</value></Data><Data name="EstimatedRestorationUTC"><value>2025-07-30T16:15:00.0000000+00:00</value></Data><Data name="OutageStatus"><value>Outage Reported</value></Data><Data name="IsStormModeData"><value>False</value></Data><Data name="DistrictBroadcastMessages"><value>[]</value></Data><Data name="RegionBroadcastMessages"><value>[]</value></Data><Data name="IncidentBroadcastMessages"><value>[]</value></Data></ExtendedData><Polygon xmlns="http://www.opengis.net/kml/2.2">
   <outerBoundaryIs>
     <LinearRing>
       <coordinates>-121.830503384264,47.7988852754062,0 -121.825124751462,47.7988006453394,0 -121.819746136243,47.7987157619845,0 -121.819724087179,47.8023291981304,0 -121.819702035042,47.8059426332338,0 -121.825027288627,47.8059685154661,0 -121.830352547504,47.8059941494467,0 -121.830427971054,47.8024397129538,0 -121.830503384264,47.7988852754062,0 </coordinates>
-    </LinearRing>
-  </outerBoundaryIs>
-</Polygon></Placemark>
-<Placemark><name>10055</name><ExtendedData><Data name="StartUTC"><value>2025-07-30T14:20:38.0000000+00:00</value></Data><Data name="Cause"><value>Pending Investigation</value></Data><Data name="EstCustomersOut"><value>1</value></Data><Data name="UploadTimestampUTC"><value>2025-07-30T15:16:04.0000000+00:00</value></Data><Data name="EstimatedRestorationUTC"><value>2025-07-30T16:30:00.0000000+00:00</value></Data><Data name="OutageStatus"><value>We're investigating</value></Data><Data name="IsStormModeData"><value>False</value></Data><Data name="DistrictBroadcastMessages"><value>[]</value></Data><Data name="RegionBroadcastMessages"><value>[]</value></Data><Data name="IncidentBroadcastMessages"><value>[]</value></Data></ExtendedData><Polygon xmlns="http://www.opengis.net/kml/2.2">
-  <outerBoundaryIs>
-    <LinearRing>
-      <coordinates>-122.099332350153,47.80481820122,0 -122.093385093671,47.8046964738862,0 -122.087721064127,47.8045802551838,0 -122.087777104615,47.8082547258462,0 -122.087833153047,47.8119291953835,0 -122.093423236818,47.8119864067397,0 -122.099303539906,47.8120462929966,0 -122.099317946034,47.8084322476405,0 -122.099332350153,47.80481820122,0 </coordinates>
-    </LinearRing>
-  </outerBoundaryIs>
-</Polygon></Placemark>
-<Placemark><name>10003</name><ExtendedData><Data name="StartUTC"><value>2025-07-30T14:31:08.0000000+00:00</value></Data><Data name="Cause"><value>Pending Investigation</value></Data><Data name="EstCustomersOut"><value>4</value></Data><Data name="UploadTimestampUTC"><value>2025-07-30T15:16:04.0000000+00:00</value></Data><Data name="EstimatedRestorationUTC"><value>2025-07-30T16:45:00.0000000+00:00</value></Data><Data name="OutageStatus"><value>We're investigating</value></Data><Data name="IsStormModeData"><value>False</value></Data><Data name="DistrictBroadcastMessages"><value>[]</value></Data><Data name="RegionBroadcastMessages"><value>[]</value></Data><Data name="IncidentBroadcastMessages"><value>[]</value></Data></ExtendedData><Polygon xmlns="http://www.opengis.net/kml/2.2">
-  <outerBoundaryIs>
-    <LinearRing>
-      <coordinates>-122.238953959058,47.9000966126045,0 -122.233527203401,47.9001137799063,0 -122.228100444169,47.9001306898732,0 -122.228165858333,47.9037651830034,0 -122.228231281686,47.9073996746419,0 -122.233623894007,47.907377334052,0 -122.239016501644,47.9073547393914,0 -122.238985228158,47.9037256767272,0 -122.238953959058,47.9000966126045,0 </coordinates>
     </LinearRing>
   </outerBoundaryIs>
 </Polygon></Placemark>
